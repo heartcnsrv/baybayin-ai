@@ -2,7 +2,6 @@
 .env.*
 !.env.example
 !netlify/.env.example
-!backend/ocr/.env.example
 node_modules/
 .netlify/
 .DS_Store
