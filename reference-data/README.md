@@ -1,0 +1,1 @@
+Metadata extracted from the uploaded OCR repository. Full image dataset and model binaries are not copied into this web project because they total a large archive and need Python inference, not static hosting.
