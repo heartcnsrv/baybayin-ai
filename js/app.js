@@ -1,7 +1,7 @@
 import {initializeApp} from "https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js";
+import {firebaseConfig} from "../database/firebase-config.js";
 import {getAuth,onAuthStateChanged,GoogleAuthProvider,signInWithPopup,signInAnonymously,linkWithPopup,signOut} from "https://www.gstatic.com/firebasejs/10.14.1/firebase-auth.js";
 import {getFirestore,collection,addDoc,getDocs,query,orderBy,serverTimestamp,limit,doc,getDoc,setDoc,updateDoc} from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
-const firebaseConfig={apiKey:"AIzaSyCeNIkEzCTKv8gP7R7jzAaYqC2yVUye61k",authDomain:"baybayin-ai.firebaseapp.com",projectId:"baybayin-ai",storageBucket:"baybayin-ai.firebasestorage.app",messagingSenderId:"990474180745",appId:"1:990474180745:web:eb99c9df263c8e9d24ce58",measurementId:"G-6NNKPTJ0ML"};
 const app=initializeApp(firebaseConfig),auth=getAuth(app),db=getFirestore(app),$=s=>document.querySelector(s);
 let user=null,english=true,currentChat=null,readOnly=false,chatItems=[];
 const chars=[["ᜀ","a"],["ᜁ","i / e"],["ᜂ","u / o"],["ᜃ","ka"],["ᜄ","ga"],["ᜅ","nga"],["ᜆ","ta"],["ᜇ","da / ra"],["ᜈ","na"],["ᜉ","pa"],["ᜊ","ba"],["ᜋ","ma"],["ᜌ","ya"],["ᜎ","la"],["ᜏ","wa"],["ᜐ","sa"],["ᜑ","ha"],["ᜒ","i / e mark"],["ᜓ","u / o mark"],["᜔","virama"]];

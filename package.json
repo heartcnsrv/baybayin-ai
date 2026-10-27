@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "netlify dev"
+    "dev": "netlify dev --config netlify/netlify.toml"
   },
   "devDependencies": {
     "netlify-cli": "^17.38.1"
