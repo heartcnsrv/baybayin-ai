@@ -4,5 +4,18 @@ service cloud.firestore {
   match /users/{userId}/translations/{translationId} {
    allow read, create, update, delete: if request.auth != null && request.auth.uid == userId;
   }
+  match /users/{userId}/chats/{chatId} {
+   allow read: if request.auth != null && (request.auth.uid == userId || resource.data.shared == true);
+   allow create, update, delete: if request.auth != null && request.auth.uid == userId;
+   match /messages/{messageId} {
+    allow read: if request.auth != null && (request.auth.uid == userId || get(/databases/$(database)/documents/users/$(userId)/chats/$(chatId)).data.shared == true);
+    allow create, update, delete: if request.auth != null && request.auth.uid == userId;
+   }
+  }
+  match /shareLinks/{linkId} {
+   allow get: if true;
+   allow list: if false;
+   allow create, update, delete: if request.auth != null && request.resource.data.owner == request.auth.uid;
+  }
  }
 }

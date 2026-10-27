@@ -12,7 +12,7 @@ Plain HTML, CSS and JavaScript recreation of the supplied UI. Firebase is initia
 - `reference-data/model-metadata/` — model class list and findings from supplied OCR ZIP
 
 ## Firebase setup
-The provided Firebase config is already wired into `js/app.js`. In Firebase Console for `baybayin-ai`, enable **Authentication → Sign-in method → Anonymous**, create/enable Firestore, and publish `firestore.rules`. Add your Netlify domain under Authentication → Settings → Authorized domains.
+The provided Firebase config is already wired into `js/app.js`. In Firebase Console for `baybayin-ai`, enable **Authentication → Sign-in method → Anonymous and Google**, create/enable Firestore, and publish [`database/firestore.rules`](database/firestore.rules). Add your Netlify domain under Authentication → Settings → Authorized domains.
 
 Translations live at `users/{uid}/translations/{documentId}` with source, Tagalog transliteration, English translation, and server timestamp. Firebase web config is not a server secret; access control comes from auth and Firestore rules.
 
