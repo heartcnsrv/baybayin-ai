@@ -1,0 +1,269 @@
+{
+  "summary": {
+    "images": 37,
+    "word_error_rate": 408.42,
+    "transliteration_cer": 262.15,
+    "exact_match": 0.0
+  },
+  "per_image": [
+    {
+      "image": "Baybayin Sentence References Image\\16.jpg",
+      "tagalog_reference": "sa panahon ngayon lindol na lang nagpapauga ng kama ko",
+      "system_tagalog": "sapana nangayuna inatanasanitibasasadanaabisa linadulunalangu dausababadasanadanasada nagpapauga sanadatanatanawadani nangukamaku sadasasanalabi",
+      "system_english": "who comes first |  |  |  |  |  |  | ",
+      "wer": 90.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\18.jpg",
+      "tagalog_reference": "pag marunong kang tumanggap ng kamalian marami kang matututunan",
+      "system_tagalog": "gaiugaigasagabagamagaigaulasagaigauuina pagmadunungkangtumanggapu gaugaigagagiigagaingaigagigaigau nangukamalianumadamikangu gailasausausagaiga matututunanuyata layuka",
+      "system_english": " |  |  |  |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\20.jpg",
+      "tagalog_reference": "mapalad ka sapagkat nananalig ka",
+      "system_tagalog": "mapuludukaya he sapgikitu nananalgkauu sanasanasana badana",
+      "system_english": " |  |  |  | used to weight",
+      "wer": 120.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\42.jpg",
+      "tagalog_reference": "mas matindi makaalala ang puso kaysa utak",
+      "system_tagalog": "masmitunidi makialila angipusu kayusa utuki",
+      "system_english": " |  |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\44.jpg",
+      "tagalog_reference": "kung bibigyan ako ng tatlong beses para humiling tatlong beses kitang hihilingin",
+      "system_tagalog": "ngihu ngii me o nu i i a a i la i ali puu oo nu la i lugsingu ego la ko na o la ngbabiguha nga bababa nudikina ta buna nalaba ngu tulangabi lana lanalabagida siu para humiging udalau nasa tatatingu ia nara la ngubisila kuti na bagana idau nguhihulingi la nunaba nati ngasa nanana tu ladau i lu na sa la i",
+      "system_english": "I'm going to tell you. | bleat (sheep, goat) | Or not |  |  | a a i | It's just me. | aunt; a term of address for an older woman | oo yes |  | n. sixth tone in the c-major scale | I'm going to go. | It's my ego. | It's me or it's me. |  | to the bottom of the drawer | Because it's too late. | night wool | northwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to southwest to south | to become a whale |  | It's just a matter of time before it's gone. | Maybe it's just that I'm going to die. |  | I'm just going to be a little late. | I hope |  |  |  |  | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | to the | ",
+      "wer": 525.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\48.jpg",
+      "tagalog_reference": "maaari bang magkunwaring akin ka pa malaya",
+      "system_tagalog": "na ma ma ni nu",
+      "system_english": "adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | n., zoo. species of mollusc (mollusk) | n., zoo. species of mollusc (mollusk) | prep. may indicate the doer of a action | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\50.jpg",
+      "tagalog_reference": "ang hirap palayain yung taong akala mo magiging kasama mo hanggang dulo",
+      "system_tagalog": "ha anga hidapapalayahagana he usaba ma natata tawa ulanakanga ha yunga haunga akalama he gagada gabataba utana na saba he magaganga kasama ma hangaganga he sauta da waba tanatausana lagawa ana tatanasada he dala he wawa wa ha ha he haha",
+      "system_english": " | It's time to move on. |  | ♪ One day I'll laugh in the rain ♪ |  | Yunga haunga calamity |  | they will have a great deal of patience |  | be impressed with your admiration |  | sauta da waba we are dressed up |  | to carry; carried, brought; load, baggage, something carried |  | Wait a minute. |  |  |  | ",
+      "wer": 333.3
+    },
+    {
+      "image": "Baybayin Sentence References Image\\52.jpg",
+      "tagalog_reference": "kapag mali yung tao itama mo wag mo ipahiya",
+      "system_tagalog": "utanauunalangiutatanau o tiauugaulangingaunalauungaunautaunautatatau kapagmluyungutauhangatimamiu unatanalalangautatatau uuunaniuutina wag mihangapihiya ngalayuka",
+      "system_english": "in the case of a person who is unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed or unemployed |  | Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknown Un | Don't be embarrassed | ",
+      "wer": 88.9
+    },
+    {
+      "image": "Baybayin Sentence References Image\\5.jpg",
+      "tagalog_reference": "sardinas ulit",
+      "system_tagalog": "ha hunga ha ngu ha gu oo gapa tu o gidu a lahi gami ngu gi khu o o nu ta lana ha la i nga ngua o ma ma o gu nu o li ha li ha ngu gigi ti ni o na nga huho mingi uuhu ngia la ga ini a haa ha ha i o a ni",
+      "system_english": " |  |  |  | ha gu | Yeah, that's right. | or equal race | gami ngu |  | khu or | Or not | Let's get some oil. | It's just me. | or | n., zoo. species of mollusc (mollusk) | ma or gu | No or |  |  | li ha |  | e to giggling |  | prep. may indicate the doer of a action | or that | That's what it's all about. | You know what? |  | It's all right. | This is a ha ha |  | or a | prep. may indicate the doer of a action",
+      "wer": 3000.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\11.jpg",
+      "tagalog_reference": "huwag kang manghinayang sa taong ikaw mismo ang sinayang",
+      "system_tagalog": "huwigikanga mangahinuyung ga ng gungaga sa taungu hangakuwu misumi i ki angi sinuyungutata gi saga la",
+      "system_english": "Be careful not to shake | It's not the end of the world. | to the taungu to the taakuwu misumi | I'm going to | who are being bullied | g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g | n. sixth tone in the c-major scale",
+      "wer": 166.7
+    },
+    {
+      "image": "Baybayin Sentence References Image\\17.jpg",
+      "tagalog_reference": "hindi ko maintindihan ay kung bakit kailangang patayin ng kapwa pilipino ang pilipino",
+      "system_tagalog": "gagigawagigabagaigigaugigawagiigaia hinudikumahanganutinudihanuayu gasagaumaiigiagaiwuigauigautaiaiyagiga kingbakitukahangalangangpatayinu gaugaigagaitagugitagigabaigaugagiugitagigaba nangukapuwapilipinuangupilipinu layuka",
+      "system_english": " |  |  |  |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\19.jpg",
+      "tagalog_reference": "kung edukasyon ang sagot sa kahirapan bakit edukado ang nagnanakaw sa bayan",
+      "system_tagalog": "gasagaukawasagaikaubagaigaukaiubalaii kunghangadukasuyunuangsagutusa igagingaisaigamaiigiutawasaiiwabaigau kahidapanubakituhangadukiduang gaiugaigaiiigaiimaiaiga nagnanakawusabayanyaya layuka",
+      "system_english": " |  |  |  |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\21.jpg",
+      "tagalog_reference": "huwag nating hayaan na maging malamig ang pasko tara magsama na tayo",
+      "system_tagalog": "i a nga gagi ga pa ga nga a l sa a tu o na o a o i la lu ga i o nga pa o a a ga o la ni nga pa la gi nana pugi ta i ga nga nga la la a ha i ma a na i o ga ya la na o na a o nga tila he nga na na a sa nga sa kala i la i ngi ga ga o ngi la la ga ha na ta pa gau ga ga o po pa na ga la nga o o nga sa na o na o o i na ni a o na na o nga na na pa na o i i na o o sa la i na i sa sa i hsa na na na na na na la na na a sa o na na o o na na o na na laa sa ngi ga na na o o i i gi o o i a li ga pa na lasa a na la o la sa sa na na ai i na na ni na na ba o o ga ta o na la g na o a na i na na na na nga na i o la a o sa sa sa i i na i na na oo ga li ga a li a ga na o i nga nga ga la nga a ga i ga na na na na la nga nga pa na na o o o ga nga a nga i i ga la sa ga na li gi ga o sa nguu ga a o na ma ngi la i ga ga i ta nga ga na",
+      "system_english": "I've never been here before. | It's not me. | in a to | o that or a or i just | Are you okay? | or even | or not | Or just | It's not. | still, yet, more | It's all right. | Nana Pugi |  | I don't know. | It's just that | a ha i ma | whether I am or not | It's all right. | a or a | It looks like he | That's what it's all about. | When I'm alone |  | It's not. | or tongue | n. sixth tone in the c-major scale | It's all right. |  | Let's go | to the left | do not or | It's all right. | It's all right. | really; indeed; please (see grammar) | or even to | that or that or | or i | a by a or a by a | It's now or never. | still, yet, more | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | or i | i already o | or to | I'm just going to | in the hsa | It's all over now. | a to | or that or that or that or that or that | What is it? | prep. to; at; in; against; between; by; during; for; from; into; onto; through (by means of); upon; with |  | no more or or |  |  |  | o or i a li | Not yet. | taste that's just or | Only in the past | Hey, I'm on my way. | That's it. | ba intrj. form of address to uncle or elderly man | or |  | Let's go or we'll go. | la g | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | or a i | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | That's it. | really; indeed; please (see grammar) | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | i or just |  | or to to i i already | I'm going to say yes. |  |  | It's not. |  |  | No more | adj. or | Oh, my God. | It's not just | really; indeed; please (see grammar) | That's not true. | I don't know. | It's all over now. | It's all right. | that it is already or or or | It's not. | That's what I'm talking about. | It's not just | No more | g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g |  | Do or do not | It's just me. |  | It's not me. | Let's get out of here.",
+      "wer": 2408.3
+    },
+    {
+      "image": "Baybayin Sentence References Image\\23.jpg",
+      "tagalog_reference": "tulad nang bituwin sa kalangitan aalis ka din pag parating ang ulan",
+      "system_tagalog": "tuladunangubituwinusu dikalangitanaya o aalisukadinupgu padutingianguulunuyaya",
+      "system_english": " |  | adj. or |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\29.jpg",
+      "tagalog_reference": "sa mundo kong puro pero ikaw ang aking sigurado",
+      "system_tagalog": "nga o o gi samundukungpadu liu ga gawalani saga ninaba i pera ngihakawhangu li nalanabi saa nalaba hakingulugudadi o nilanaba unusana i nu nguhu o agi ha",
+      "system_english": "really; indeed; please (see grammar) | adj. or | adj. or |  | similar to liu | Don't worry, I'm going to die. | money is wasted | surviving in the long run | self-indulgence or | I'm not wearing any clothes. | o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o |  | ",
+      "wer": 300.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\43.jpg",
+      "tagalog_reference": "kape ka ulit tapos isipin mo bakit ka pinagpalit",
+      "system_tagalog": "ngugi ia da i kapasa uluka i pi ka a ungu ka tu ngis ngi i ka mubaki hasii pena a ga langa ho ga tasi tag na haha ni ni pilika oo pang ga i o kuy hasayalana na ni ni ila li kasa kihu ga ga",
+      "system_english": " |  | Because I've been through it. | Open your head | You are purple | you (singular); a title of respect | I miss you so much |  | Make a pen that doesn't look good | I'm not a witness. | that tag haha | by pilika yes | not yet |  | or who has been neglected | This is it. | they li | cocked (as firearm ready for discharge) | It's all right.",
+      "wer": 511.1
+    },
+    {
+      "image": "Baybayin Sentence References Image\\51.jpg",
+      "tagalog_reference": "ang ating tula ay may ritmo at tugma ngunit hinayaang mawala kase tinuldukan mo na bigla at inumpisahan ang bagong paksa",
+      "system_tagalog": "angiatingutla gamagubiatai ayumayudtumuatutguma guugungupasunga ngnituhinayaangumawala akasaaangungama kasitinludkanumunabigula ikngisasaluba atuhnganmupisahanu angbagungpakusi guhuingnalunaanaina",
+      "system_english": " |  |  |  |  |  |  |  |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\06af3b21a6f603ae2dc3ca428e7050df.jpg",
+      "tagalog_reference": "hiraya",
+      "system_tagalog": "tauu gauuyu",
+      "system_english": " | ",
+      "wer": 200.0
+    },
+    {
+      "image": "Baybayin Reference Images\\1b845b3b011a7dee58d705378d357118.jpg",
+      "tagalog_reference": "mahal kita mahal na mahal pero siya parin ang pinili mo",
+      "system_tagalog": "mahal mahilukita mahalunamihali pidsiyapadinu angupunilumu",
+      "system_english": "expensive, costly; dear, beloved; loved one, dear, darling |  |  |  | ",
+      "wer": 90.9
+    },
+    {
+      "image": "Baybayin Reference Images\\212508b32f481143fe0f62dda957aeb1.jpg",
+      "tagalog_reference": "kung bibigyan ako ng tatlong beses para humiling tatlong beses kitang hihilingin",
+      "system_tagalog": "ango ngungai mo i nu i m nusa la lu i ola piu oo nu i lu iligi ngi ti ego la o o kungu la bibuguha nga ba nudaki unanina nang tatlo baiba aba lanatakabaabang bisila para humuli udaudau tanasa ngtatat ngasatagaba ngngbisisa tanatubagaba kiting udautau la hihulinginatata lananaba tata o nabana ngu latau i li na gama ga",
+      "system_english": "a lot of people | Your / You | I do not |  |  | It's just you. | n. eagerness; vehement desire | Plus yes |  | I'm going to | Deny your tongue |  | It's my ego. | or | It's all mine. |  | That's growing. | It's too early. | three fairies | special lease for | Go home for a while |  | Suffering from Inquiry |  | kittens to be worn | I'm just going to be late. | what is it? | or delayed |  |  |  |  | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | do not do",
+      "wer": 491.7
+    },
+    {
+      "image": "Baybayin Reference Images\\283c090cc8c8f787a6d6a380a4ea4f2a.jpg",
+      "tagalog_reference": "filipino",
+      "system_tagalog": "pahangatipin naukausaunaba",
+      "system_english": " | ",
+      "wer": 200.0
+    },
+    {
+      "image": "Baybayin Reference Images\\28f54289bfd552bd28d2e47eb16a7b26.jpg",
+      "tagalog_reference": "musika",
+      "system_tagalog": "nga maska i sawada tubi",
+      "system_english": "really; indeed; please (see grammar) |  |  | with water",
+      "wer": 500.0
+    },
+    {
+      "image": "Baybayin Reference Images\\2e5f91203cf5f62af2f659110a8dd8e1.jpg",
+      "tagalog_reference": "walang pamagat handa na ang sundalong ito na sumabak sa giyera nais kong malaman mo na gustong-gusto kita - tula para kay stella-",
+      "system_tagalog": "tu waga labatabuyaba ubi walangpmugitu hanidanuangusunudilunguhingatu nasumbuksigyidayaya hanahangaskingumiluminumuniha gisutingigisutikitataya babatlipidikiyi sitila sabui de w",
+      "system_english": "That's right. | grain of wheat |  |  |  |  |  | beaten up by steel |  | of w",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\61c5aa5ca41ff6d09f7152c2913bc756.jpg",
+      "tagalog_reference": "patawad kung hindi na ako makababalik pa sa loob ng sampung-araw patawad kung hindi na tayo magkikita pa hindi ko gusto gawin ito ngunit ito lang ang tanging paraan para hindi ka masaktan hinihiling ko na sana mabuhay ka ng matagal huwag mong pababayaan ang sarili mo maraming salamat sa pagmamahal na ipinaranas mo sa akin hindi ko akalaing sa iyo ko matatagpuan ang tunay na kahulugan ng pag-ibig hanggang dito ko na lang kayang patunayan sa iyo ang pagmamahal ko hanggang sa huling tibok ng puso ko ikaw pa rin ang sinisigaw nito mag-iingat ka palagi at maraming salamat sa lahat nagmamahal carmela",
+      "system_tagalog": "m hahhu ngungangaga ha hahi malukangahainganga ha ti ho nagagugaulangidiyungingisingigui ga igera igigii niilaii tanagagagagupilagaau ininanai a lipumu sa lagailaigukapayanalai i lakaigau i umaggagala ngahingu li la ngingangiilana la gaingagasagakagadagaha li ili gusigalingngaalangakungu ni ipuiisiliingi gu pipagalakabagagiggaingahi gailaga lukaugsuganana wai ngagalai a ggingaiginguaunuutanagu laingugagigasa giu au inugigii didangigauwauulaila huukili niinga dagiu gisalaisi he ngagpukaiigaikungdagangaha o gisugika ha he bani ni yahiha yalaidukingpanuinangamaagalakpalalugngu ha haha lapangunguipalaiinguilanangungunguugguagpu ha ho pingnga nganlangmangupanungukanalalagugi ha langukangangngungungngangungiisiki ha linuihanangalangkinanganangukanangumananangu ha ha ha ha h ngangngalangamanangulamlangulalaina inalumilapanaingiinumnulasaingingaha he ha ha ha ligalanukingungungusgainangiguiluanguhanganguh ha ha ngmangupamkunangungulamagungaknguskha yaha ngangangingugumahukamgagilulilupna ha numungala ha ha kaiilama ha ho",
+      "system_english": " |  | I'm going to go to Haji | It's amazing |  | (A variation of 'po') |  |  | igera igigi niilaii lookagigilagaau | a long-awaited disappointment in the world of entertainment | I'm always on the lookout | Li la | It's just a matter of time. |  | to build a house of gratitude | nor will I ask gu pipa worry worry | how to wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash wash |  | not to be confused with others | ju au inugigii is not known | I'm going to try to breathe. |  | adj. or | I was tempted to | He's a descendant of |  |  | Ha ha |  | Ha ha | a bowl with a spoonful of boredom |  |  |  |  | Ha ha ha ha |  |  | Hey, hey, hey, hey |  | How are you? |  | Now they're going to have to go back to the drawing board. |  |  | How are you? |  | Ha ha",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\7ca207150520f53c1f84c4536c122fff.jpg",
+      "tagalog_reference": "lapit nang lapit ako'y lalapit layo nang layo ba't ka lumalayo",
+      "system_tagalog": "ng lapitnungulupit o akuplalapit lapunangalapu ta kibatakalaalapa anataulasinananaanataula nalabaaanaanataula yanuabanananadaanaaba danilulanayawasanaanaabanu",
+      "system_english": "prep. introducing direct object of a transitive verb |  | adj. or |  |  |  |  |  |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\9c37019c7b928b843ffdffc4f087a31a.jpg",
+      "tagalog_reference": "humaling",
+      "system_tagalog": "ha hamilungi ha mo tiwiyinudiyi sidi na",
+      "system_english": " |  | How are you? | toasted candy | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that",
+      "wer": 700.0
+    },
+    {
+      "image": "Baybayin Reference Images\\a3166c79c1ead3a5769f507d9b85a66b.jpg",
+      "tagalog_reference": "maligayang pasko",
+      "system_tagalog": "o maligiying ta masuk",
+      "system_english": "adj. or |  |  | ",
+      "wer": 200.0
+    },
+    {
+      "image": "Baybayin Reference Images\\a6c5e9f44ab33ebc97e20872fdc9c745.jpg",
+      "tagalog_reference": "takipsilim hanggang buka ng liwayway",
+      "system_tagalog": "takipusulumu lau ta wa i o na hinga ngu tawa nawawa nawa buka nguluwayuwayu daya tawa nawa ya gawa o au o",
+      "system_english": " | Let's get out of here. | Don't know. | Let's have a laugh | Open your eyes | whether it's laughter or au or",
+      "wer": 420.0
+    },
+    {
+      "image": "Baybayin Reference Images\\b6f1a1e4d5280090786d252a13b91604.jpg",
+      "tagalog_reference": "panibagong simula",
+      "system_tagalog": "panibaginagsumula sainataiubanauinawai",
+      "system_english": " | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\bd1cbe2b6daf8fc7e77deb44d87190a9.jpg",
+      "tagalog_reference": "may dadating pero aalis din may magtatagal pero magsasawa din",
+      "system_tagalog": "ngi nganga la ma ma ganga nga ga inga pa lunganga nga nga gaga nga nga nga nga tunga nga ganga nga nga la nga sa li na ga ningu ma nga la ya nga nga ga gu a gila da ga nga da na o da nga nga na ta ngi wu pa ngi ga gi wa ga ga nga pa gaga nga da nanga la gi nga laga nga ta nga ola ya nga ga pa nga na aga ta la ta o ngi nga ga na la la ba nga me ga ga la i la laba o nga ga ha o ga ta da ngi la ma ta nga nga na o na o i o ga ga nga wa ga ha ta ka a la ai la i nga a ya ya ngu o li ga ta nga ga i nga hele uga ga la ngu saga i i o la ti nga ga nga na ba ga o ga na ba nau ga ta ngala a ga o oo sai i wa ta nga ni gi si ga o nginga la ga na ga wanga ga gaga ga ga la o ga ga ha ga o gi o ngiu la gi o o nga giga la ga a ga ngi la sa na ha gi nanga nga ga ga agapa ta nga lai ngu o o ngu a bi ngu nga la la gaga o la gagaga nga ngu la la ga ya ga gigi i i nga la ga gala nga gaa li ga nga la li i ga gi ga ngu ga la nga gi ga nga ga la giga nga nga ga ga ngi nga a la la i nga gasa nga ga gu la nga aga la ga ngiga ga nga iiga ga ga nga a dnga ngu ngu lagapa ga la ga li nga pa gi ga ngu i ga ngu ga la ga ga gaga nga ngu nga nga sa la ga i i i gaga",
+      "system_english": " | openmouthed; open-mouthed; agape; gaping | n. sixth tone in the c-major scale | n., zoo. species of mollusc (mollusk) | n., zoo. species of mollusc (mollusk) |  | That's not true. |  | It's still a long way off. | really; indeed; please (see grammar) | really; indeed; please (see grammar) | stupid (female); foolish (female) | really; indeed; please (see grammar) | really; indeed; please (see grammar) | really; indeed; please (see grammar) | really; indeed; please (see grammar) |  | really; indeed; please (see grammar) |  | really; indeed; please (see grammar) | really; indeed; please (see grammar) | n. sixth tone in the c-major scale | really; indeed; please (see grammar) | prep. to; at; in; against; between; by; during; for; from; into; onto; through (by means of); upon; with |  | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that |  |  | n., zoo. species of mollusc (mollusk) | really; indeed; please (see grammar) | It's all right. | really; indeed; please (see grammar) | really; indeed; please (see grammar) |  | gu a | They're crazy. | It's not. | That's it. | or da | That's right. | Let's go | by wu | I'm still here. |  | What are you doing? | It's not. | They were surprised. | It's all right. | Let's play | That's what it's all about. | Not at all. | Let's go in the morning. | Let's go or we'll go | That's it. | Is that it? | I won't. |  | n. sixth tone in the c-major scale |  | laundry or | really; indeed; please (see grammar) | Ha ha or | Let's go. | It's just me. | Let's go. | That or that. | adj. or | i or not | That's not true. | Let's get you a | It's just me. | A yes yes | ngu or li | Don't you want me to? | It's a hell of a lot. |  | It's not just me. | i i or la | That's not true. | That's right. | or not | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | Are we going to forget that? | Yes or no | I won't |  | by gi | (personal name marker) | not or empty | It's not a surprise. |  | Whether or not | It's all right. | adj. or | g or mouth | only gi or or giga | It's not just me. | n. sixth tone in the c-major scale | prep. to; at; in; against; between; by; during; for; from; into; onto; through (by means of); upon; with | That's right. | That's what it's all about. | It doesn't matter. | Let's go. | by or by | That's what I'm talking about. | It's just a surprise or | It's just a matter of time. | That's right. | It's not just teeth. | I'm the only one | It's not that bad. | It's all right. | It's just that I don't like it. | It's not. | It's just that | It's not. | It's not just that. | That's not true. | It's just that | It's a gift. | It's just early in the morning. | It's not just me. | Don't worry about it. | It's not. | that a | From the bottom of the page |  | It's all right. | Oh, my God. | It's not that bad. | I don't know. | It's all right. |  | It's not surprising. | Well, that's right. | prep. to; at; in; against; between; by; during; for; from; into; onto; through (by means of); upon; with | n. sixth tone in the c-major scale |  | i i |  | stupid (female); foolish (female)",
+      "wer": 3380.0
+    },
+    {
+      "image": "Baybayin Reference Images\\d0f6c526f4b1a02533d35f7e85212aab.jpg",
+      "tagalog_reference": "saan patungo ako saan saan doon dito d'yan puno subalit wala tignan muli ang tala",
+      "system_tagalog": "nga patungumulasanu ngala ga nga sanadagaditanga o nga nga ganga punsabatulawata gu nga ga tuganangangu ma muga nga",
+      "system_english": "really; indeed; please (see grammar) |  | I don't know. |  | adj. or | That's what I'm talking about. |  | It's not. |  | It's not easy. | really; indeed; please (see grammar)",
+      "wer": 120.0
+    },
+    {
+      "image": "Baybayin Reference Images\\dc5eacacc6252c0b80ed460c8ecd409b.jpg",
+      "tagalog_reference": "tinatangi",
+      "system_tagalog": "su a ha gananasa ha me tenga ga ngana lu bi la",
+      "system_english": "zoo |  | I'm looking forward to it. | bleat (sheep, goat) | n. ear |  | I'm not sure. | bi (bisexual) | n. sixth tone in the c-major scale",
+      "wer": 1200.0
+    },
+    {
+      "image": "Baybayin Reference Images\\e3f0c8de6e8c1c92848f1ff703deb1e4.jpg",
+      "tagalog_reference": "sabihin mo na nilalaman ng puso mo at nararamdaman nito kung 'di pa aminin ang gusto baka kasi mawala na ako",
+      "system_tagalog": "la ngau ga lu ga ga li ha nga nga nga lu la o la la la a la la ha i pa nganga la ga nga o nga na h ho la hima h hahu la ta gala o i na mala la ya",
+      "system_english": "n. sixth tone in the c-major scale |  |  |  |  |  |  |  | really; indeed; please (see grammar) | really; indeed; please (see grammar) | really; indeed; please (see grammar) |  | only or | n. sixth tone in the c-major scale | It's just a | It's just |  |  | still, yet, more | It's just a matter of time. | Not really. | That's it. |  | (A variation of 'po') | n. sixth tone in the c-major scale |  |  |  | n. sixth tone in the c-major scale |  | stray, wandering (for animals); stroll, trip, wandering | adj. or | I got it. |  | n. sixth tone in the c-major scale | ",
+      "wer": 204.8
+    },
+    {
+      "image": "Baybayin Reference Images\\e4120a7074e14babef7f7b0ff114f9ac.jpg",
+      "tagalog_reference": "kumusta ang trabaho mo may tanong ako sa iyo alam mo ba ito maligayang araw ng kalayaan sino ang pinakamaganda saan ka nanggaling ano ba ang nangyari talaga bahala ka ano ang ginagawa mo totoo ba mahal kita huwag kang mag-abala",
+      "system_tagalog": "ho ho ha gi koka pa la o gi nga giilaina he ng naainga ngu ngangi ngagapa ngi ho ngingi ho l hangisingi nginga pa nga ha ngangangi nga gagugi aga nga nga ngi ngu ga ngupangnga ginga ngangnga halanga ngagihagangigunga ngunga ng ngu ngu nggingangungi ho gangganga nga gu ngiga ngangi nga gagangangangangangu nga ngingaging i ngnggangaginga nga mangangangga ginga ngagangaga a oda lingingangagingi gihagugagu ngangnginginga ngu lili a nguhangungangi pangangangangu saingngnga lala laga li nganga ngangi ng ngangangu gai ga nga ngangua na ngi nga gahanginga ngangu nginga nga i nga sunganga anga hungu gunginga nga pa pi ga nga hanganganga ngagang ngigaginga gu nga ha nga a gi nganganga ngugangangangagaga de li ngihi ngui nganga mangingangi nga ng li ngiga papa ng nga nga nga ga nguiwa ahu ngaba nganganga nga isi labi ma ngnga nga nga mai gu ngi ka ga ma ki ngangangu ngganga nga la a i da ngang ganganga ngai ui mhi o gipa ngangangangunga nga magi ngama ngiingaginginguianga gi kagi ngunga o ganganga ngaga nganganganganga gua i ngaga nguma paga gangu ko nga nginganganga naa si ngagi nga oo ng o la ha nganganga nu i ngta hanga ee o ga i inga a ma ng sero ng la i nanga kananga i ngaga ngu i gihi ga la pabi nga naidaadi la o la ngama ga ngi ni la nga ngi laha nga na ga ga wa n iu o ganga ngahi a ko pamala gi ha nga sa lu k nu ig nihu ngilama nganga tada awu uh gaga o gu naka nganga n ai gaka ngingi yata nga da i gi o ngi gangi ta a i liu ingaga ngu wa ngabi ng i lapagaiha ngingi da nai po ango nga ibai nu na ango nga ngu ga he dinga nga a na nana na o ha laba o a o ngala ba ngupa ngi lana nga ga ka bao ga o nga nga na na ta ibai gawa nau o mo ba i i ngai nga ha ga ma wa ta lala ga na ma ga o ga la ki nga ga nga nga i nau i ma i tu na aga ng nga ngu nga ngu nga ng",
+      "system_english": "(A variation of 'po') | (A variation of 'po') |  |  | more cocaine | only or | to be separated | Hey, what a pity. | I'm not going to say anything. | I'm going to ask you. | I'm going to ask you a little bit more. | That's what I'm trying to do. | It's early in the morning. | What's the big deal? What's the big deal? | producing the fruit of the ng ng ng | I've been waiting for you to tell me what you're doing. | It's going to be hard for me to stop breathing. | a little bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of | I'm so excited to be able to breathe. | The name of the game is \"lalag li nganga\" | I don't think I'm going to be able to do that. | I can't breathe. I can't breathe. I can't breathe. I can't breathe. | I can't even breathe. | I'm going to try to get some sleep. | I'm not sure what I'm talking about. | I don't even know what I'm talking about. | I'm not going to tell you anything. | It's a lovely lipstick. | I'm sure you'll be fine. | ma ki | It's just that I'm so excited. | whether or not it is made or sent | to be fruitful | whether or not it is a fruit or vegetable | How many times do you think you're going to be in a cave? | It's been a while since I've been here. | I'm surprised he's there. | decline yes or no | I'm not afraid | Hang on or don't hang on | a ma of zero of | I'm just trying to get a feel for myself. | just a night out or | It's just a matter of time. | That's what I'm talking about. | Or how I'd like to remember | Ha ha to lu k nu ig nihu | I'm not going to say anything. I'm not going to say anything. I'm not going to say anything. I'm not going to say anything. | I'm not going to be able to do this. | I'm going to ask them if they're okay or not. | Let's go with Liu | It's not like I'm going to sleep at night. | It's too late to ask. | I'm not a woman anymore. | What are you talking about? | He doesn't. |  | really; indeed; please (see grammar) | who is nana | or in the bathroom or | a or a | I'm going to cut the wool. | that you're not | whether or not | That's it. | Let's get this done. | Or you | Is that me? |  | really; indeed; please (see grammar) | How are you? | Let's not go | Don't worry about it. | Yes or no | You're not. | That's right. | I know. | That's what I'm talking about. | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | It's early in the morning. | Oh, my God. |  | really; indeed; please (see grammar) | prep. introducing direct object of a transitive verb",
+      "wer": 892.7
+    },
+    {
+      "image": "Baybayin Reference Images\\e638c9484c54182ca85c84d002972297.jpg",
+      "tagalog_reference": "mananatili",
+      "system_tagalog": "la a nga pi a o o i a nga i ai i ga ka li i lai la a nga o uha a li si pi ta lapi na o ga la napu napi gala li na ga o ta na sa mananatala ga a ya nai ha gawana ma gapawa nga wa ma wau ta wu o ka na ka la sa ta nga o pa o gi nga ya",
+      "system_english": "only a | which is pi |  | o or i a | really; indeed; please (see grammar) |  |  |  | Don't you? |  | I'm going to | It's just that | or uha a | Li pi let's have a pen | that or | It's not just | What are you doing? | li gala | It's either that or it's us. | that to |  | It's not. | Yeah, we've been working hard to make sure we don't get hurt. |  | Or you | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | you (singular); a title of respect | n. sixth tone in the c-major scale | to us | really; indeed; please (see grammar) | adj. or | still, yet, more | adj. or |  | really; indeed; please (see grammar) | ",
+      "wer": 7200.0
+    },
+    {
+      "image": "Baybayin Reference Images\\e9fe89b82ce5606e92611a4035bbca8f.jpg",
+      "tagalog_reference": "pangalan ano ang pangalan mo ang pangalan ko ay si dalisay alam mo ba ang pangalan niya kidlat ang pangalan niya alam niya ang pangalan niya",
+      "system_tagalog": "yataunawa lautauyawawa usawa mauunauuuwa o nga nga laugagadagaugala pangala ga na la oo aa o oo ga o a o oo ga o o o oo uuu aa ga ga anaangapangala ma ga ga na na ga sa la oo ga o na o oo a o o o oo a aa o la o la o o o o ga o la o la nga nga na angapangalana ka aa sa dalasaa a ga ga sa a a la o o uuu uuu aa una o o oo sa o a o oo o o o oo oo o la a ga nga ga sa alala ma baangapangalananaa ga ga ga sa la o au o o o o oo o a o oo o o o oo oo o o ga nga nga a sa kakalata anga pangalana naa ga ga a a la o o uuu oo o o o oo a o a o oo o o o oo oo o la o ga a a na a alala naa angapangalananaa ga ga ga",
+      "system_english": "It's easy to understand. | adj. or | That's right. |  |  | No more | La la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la | It's not. | What's going on? | It's not over. | that is not to | a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a | That's right. | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that | You're the one who's on the doorstep. | That's not true. | not to a | la or or uuu uuu aa first or or or yes to a or a or a or a or a or a or a or a or a or a | It's not. |  | prep. to; at; in; against; between; by; during; for; from; into; onto; through (by means of); upon; with | Remember her name. | It's not. | not to | la or au or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or | That's right. | a to | I can't wait to get out there. | It's not. | a a | la or or or uuu yes or or or or or yes a or a or or or or or or or or | It's not. |  | that a | I remember his name. | It's not. | ",
+      "wer": 684.6
+    },
+    {
+      "image": "Baybayin Reference Images\\fdeac2907427a8f3fe805f39514ec308.jpg",
+      "tagalog_reference": "talo mahirap kalabanin ang mundo pero mas mahirap ang piliing hindi lumaban kahit na gusto magsisisi ang taong panibugho at sa huli ay pipilitin na lang na maglaho",
+      "system_tagalog": "ni tadai nu ha uula nawa uwa uba unau tala labaudu ha makapukalabunanungimunada ngapitanada kanabanganunu bahaga nawanani ha ngahihi hahanga pakangangamakapungupiluinguhinadu wududu nai ngunganadanu bana gu nuga lasa hangaha ha lumibana kahituna gusto yingtidunu linatau na nawaiua ha he magugusungtaunga panabgaha ngigugai banaga abunukagnatagangu ha nga nga atusahuliayupimituna na lango ga ga nga ha nawaulana nara udana ngangangu na maglaha nangaitnga ha nga dungibayu ho yayau b b b tamawa he",
+      "system_english": "prep. may indicate the doer of a action | I'm not sure. |  | Let the water flow first | n., bot. species of herb |  |  |  | There's a little bit of rain around here. | in the shadow of the sun |  | Wudu has been neglecting husband gu nuga taste | How are you? | Go away even if you want to | human beings who have been slaughtered | ha he | a year's worth of work | to be married to a man who is not married | Oh, my God. | we are living in the shadow of the rainbow | It's not even the first time I've seen it. |  | to flourish |  | Oh, my God. |  | (A variation of 'po') | yayau b b b b tamawa | ",
+      "wer": 242.9
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+diacritic samples: train 4798 val 483 test 364; skipped {'no separate mark found': 1563}
+per class: {'above': 1865, 'below': 1910, 'virama': 1870}
+  [diacritic] epoch  1  val acc=0.6480
+  [diacritic] epoch  2  val acc=0.8861
+  [diacritic] epoch  3  val acc=0.9524
+  [diacritic] epoch  4  val acc=0.9441
+  [diacritic] epoch  5  val acc=0.9110
+  [diacritic] epoch  6  val acc=0.9151
+  [diacritic] epoch  7  val acc=0.9627
+  [diacritic] epoch  8  val acc=0.9752
+  [diacritic] epoch  9  val acc=0.9752
+  [diacritic] epoch 10  val acc=0.9048
+  [diacritic] epoch 11  val acc=0.9565
+  [diacritic] epoch 12  val acc=0.9524
+  [diacritic] epoch 13  val acc=0.8696
+  [diacritic] epoch 14  val acc=0.9420
+[diacritic] TEST accuracy=0.9505  macro-F1=0.9472

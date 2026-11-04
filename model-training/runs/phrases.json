@@ -1,0 +1,269 @@
+{
+  "summary": {
+    "images": 37,
+    "word_error_rate": 104.31,
+    "transliteration_cer": 63.41,
+    "exact_match": 0.0
+  },
+  "per_image": [
+    {
+      "image": "Baybayin Sentence References Image\\16.jpg",
+      "tagalog_reference": "sa panahon ngayon lindol na lang nagpapauga ng kama ko",
+      "system_tagalog": "sapana nangayuna linadulunalangu nagpapauga nangukamaku",
+      "system_english": "who comes first |  |  | ",
+      "wer": 90.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\18.jpg",
+      "tagalog_reference": "pag marunong kang tumanggap ng kamalian marami kang matututunan",
+      "system_tagalog": "pagmadunungkangtumanggapu nangukamalianumadamikangu matututunanuyata layuka",
+      "system_english": " |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\20.jpg",
+      "tagalog_reference": "mapalad ka sapagkat nananalig ka",
+      "system_tagalog": "mapuludukaya sapgikitu nananalgkauu",
+      "system_english": " |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\42.jpg",
+      "tagalog_reference": "mas matindi makaalala ang puso kaysa utak",
+      "system_tagalog": "masmitunidi makialila angipusu kayusa utuki",
+      "system_english": " |  |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\44.jpg",
+      "tagalog_reference": "kung bibigyan ako ng tatlong beses para humiling tatlong beses kitang hihilingin",
+      "system_tagalog": "ko ngbabiguha nudikina ta tulangabi para humiging tatatingu ngubisila kuti nguhihulingi",
+      "system_english": "my; me |  |  |  |  | for, so that, in order to | (humihiging, humiging, hihiging) v., inf. drone; make a deep humming sound; buzz; hum |  |  |  | ",
+      "wer": 91.7
+    },
+    {
+      "image": "Baybayin Sentence References Image\\48.jpg",
+      "tagalog_reference": "maaari bang magkunwaring akin ka pa malaya",
+      "system_tagalog": "",
+      "system_english": "",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\50.jpg",
+      "tagalog_reference": "ang hirap palayain yung taong akala mo magiging kasama mo hanggang dulo",
+      "system_tagalog": "anga hidapapalayahagana yunga haunga akalama magaganga kasama ma hangaganga da dala",
+      "system_english": "It's time to move on. | Yunga haunga calamity | be impressed with your admiration | appellation for an elder woman | to carry; carried, brought; load, baggage, something carried",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\52.jpg",
+      "tagalog_reference": "kapag mali yung tao itama mo wag mo ipahiya",
+      "system_tagalog": "kapagmluyungutauhangatimamiu wag mihangapihiya ngalayuka",
+      "system_english": " | Don't be embarrassed | ",
+      "wer": 88.9
+    },
+    {
+      "image": "Baybayin Sentence References Image\\5.jpg",
+      "tagalog_reference": "sardinas ulit",
+      "system_tagalog": "nga ngia",
+      "system_english": "really; indeed; please (see grammar) | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\11.jpg",
+      "tagalog_reference": "huwag kang manghinayang sa taong ikaw mismo ang sinayang",
+      "system_tagalog": "huwigikanga mangahinuyung sa taungu hangakuwu misumi angi sinuyungutata gi",
+      "system_english": "Be careful not to shake | to the taungu to the taakuwu misumi | who are being bullied | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\17.jpg",
+      "tagalog_reference": "hindi ko maintindihan ay kung bakit kailangang patayin ng kapwa pilipino ang pilipino",
+      "system_tagalog": "hinudikumahanganutinudihanuayu kingbakitukahangalangangpatayinu nangukapuwapilipinuangupilipinu layuka",
+      "system_english": " |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\19.jpg",
+      "tagalog_reference": "kung edukasyon ang sagot sa kahirapan bakit edukado ang nagnanakaw sa bayan",
+      "system_tagalog": "kunghangadukasuyunuangsagutusa kahidapanubakituhangadukiduang nagnanakawusabayanyaya layuka",
+      "system_english": " |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\21.jpg",
+      "tagalog_reference": "huwag nating hayaan na maging malamig ang pasko tara magsama na tayo",
+      "system_tagalog": "",
+      "system_english": "",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\23.jpg",
+      "tagalog_reference": "tulad nang bituwin sa kalangitan aalis ka din pag parating ang ulan",
+      "system_tagalog": "tuladunangubituwinusu dikalangitanaya aalisukadinupgu padutingianguulunuyaya",
+      "system_english": " |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\29.jpg",
+      "tagalog_reference": "sa mundo kong puro pero ikaw ang aking sigurado",
+      "system_tagalog": "samundukungpadu pera ngihakawhangu hakingulugudadi",
+      "system_english": " | money is wasted | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Sentence References Image\\43.jpg",
+      "tagalog_reference": "kape ka ulit tapos isipin mo bakit ka pinagpalit",
+      "system_tagalog": "kapasa uluka pi ka ungu ka ka mubaki hasii pena ho tasi haha pilika pang kuy hasayalana",
+      "system_english": " |  | You are purple | you (singular); a title of respect | you (singular); a title of respect |  | make a pen | Ho witness |  |  |  | who has been neglected",
+      "wer": 177.8
+    },
+    {
+      "image": "Baybayin Sentence References Image\\51.jpg",
+      "tagalog_reference": "ang ating tula ay may ritmo at tugma ngunit hinayaang mawala kase tinuldukan mo na bigla at inumpisahan ang bagong paksa",
+      "system_tagalog": "angiatingutla ayumayudtumuatutguma ngnituhinayaangumawala kasitinludkanumunabigula atuhnganmupisahanu angbagungpakusi",
+      "system_english": " |  |  |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\06af3b21a6f603ae2dc3ca428e7050df.jpg",
+      "tagalog_reference": "hiraya",
+      "system_tagalog": "",
+      "system_english": "",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\1b845b3b011a7dee58d705378d357118.jpg",
+      "tagalog_reference": "mahal kita mahal na mahal pero siya parin ang pinili mo",
+      "system_tagalog": "mahal mahilukita mahalunamihali pidsiyapadinu angupunilumu",
+      "system_english": "expensive, costly; dear, beloved; loved one, dear, darling |  |  |  | ",
+      "wer": 90.9
+    },
+    {
+      "image": "Baybayin Reference Images\\212508b32f481143fe0f62dda957aeb1.jpg",
+      "tagalog_reference": "kung bibigyan ako ng tatlong beses para humiling tatlong beses kitang hihilingin",
+      "system_tagalog": "kungu bibuguha nudaki nang tatlo lanatakabaabang bisila para humuli ngtatat ngngbisisa kiting hihulinginatata",
+      "system_english": " |  |  | when; (linker for verbs and adverbs) | three | special lease for | (humuhuli, humuli, huhuli) v., inf. catch; seize; capture; take into custody |  |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\283c090cc8c8f787a6d6a380a4ea4f2a.jpg",
+      "tagalog_reference": "filipino",
+      "system_tagalog": "pahangatipin",
+      "system_english": "",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\28f54289bfd552bd28d2e47eb16a7b26.jpg",
+      "tagalog_reference": "musika",
+      "system_tagalog": "maska",
+      "system_english": "",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\2e5f91203cf5f62af2f659110a8dd8e1.jpg",
+      "tagalog_reference": "walang pamagat handa na ang sundalong ito na sumabak sa giyera nais kong malaman mo na gustong-gusto kita - tula para kay stella-",
+      "system_tagalog": "tu waga walangpmugitu hanidanuangusunudilunguhingatu nasumbuksigyidayaya hanahangaskingumiluminumuniha gisutingigisutikitataya babatlipidikiyi sitila de w",
+      "system_english": "That's right. |  |  |  |  |  | beaten up by steel | of w",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\61c5aa5ca41ff6d09f7152c2913bc756.jpg",
+      "tagalog_reference": "patawad kung hindi na ako makababalik pa sa loob ng sampung-araw patawad kung hindi na tayo magkikita pa hindi ko gusto gawin ito ngunit ito lang ang tanging paraan para hindi ka masaktan hinihiling ko na sana mabuhay ka ng matagal huwag mong pababayaan ang sarili mo maraming salamat sa pagmamahal na ipinaranas mo sa akin hindi ko akalaing sa iyo ko matatagpuan ang tunay na kahulugan ng pag-ibig hanggang dito ko na lang kayang patunayan sa iyo ang pagmamahal ko hanggang sa huling tibok ng puso ko ikaw pa rin ang sinisigaw nito mag-iingat ka palagi at maraming salamat sa lahat nagmamahal carmela",
+      "system_tagalog": "yalaidukingpanuinangamaagalakpalalugngu pingnga nganlangmangupanungukanalalagugi",
+      "system_english": " | a bowl with a spoonful of boredom",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\7ca207150520f53c1f84c4536c122fff.jpg",
+      "tagalog_reference": "lapit nang lapit ako'y lalapit layo nang layo ba't ka lumalayo",
+      "system_tagalog": "lapitnungulupit akuplalapit lapunangalapu kibatakalaalapa",
+      "system_english": " |  |  | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\9c37019c7b928b843ffdffc4f087a31a.jpg",
+      "tagalog_reference": "humaling",
+      "system_tagalog": "hamilungi",
+      "system_english": "",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\a3166c79c1ead3a5769f507d9b85a66b.jpg",
+      "tagalog_reference": "maligayang pasko",
+      "system_tagalog": "o maligiying masuk",
+      "system_english": "adj. or |  | ",
+      "wer": 150.0
+    },
+    {
+      "image": "Baybayin Reference Images\\a6c5e9f44ab33ebc97e20872fdc9c745.jpg",
+      "tagalog_reference": "takipsilim hanggang buka ng liwayway",
+      "system_tagalog": "takipusulumu hinga ngu buka nguluwayuwayu",
+      "system_english": " | Don't know. | Open your eyes",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\b6f1a1e4d5280090786d252a13b91604.jpg",
+      "tagalog_reference": "panibagong simula",
+      "system_tagalog": "panibaginagsumula",
+      "system_english": "",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\bd1cbe2b6daf8fc7e77deb44d87190a9.jpg",
+      "tagalog_reference": "may dadating pero aalis din may magtatagal pero magsasawa din",
+      "system_tagalog": "ma ya da da ta pa nga me da ma na ga ta nga ga ngu nau wa wanga nanga nga nga nga dnga ngu nga nga",
+      "system_english": "n., zoo. species of mollusc (mollusk) |  | appellation for an elder woman | appellation for an elder woman |  | still, yet, more | really; indeed; please (see grammar) | bleat (sheep, goat) | appellation for an elder woman | n., zoo. species of mollusc (mollusk) | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that |  |  | really; indeed; please (see grammar) |  |  |  |  |  |  | really; indeed; please (see grammar) | really; indeed; please (see grammar) | really; indeed; please (see grammar) | d from | really; indeed; please (see grammar) | really; indeed; please (see grammar)",
+      "wer": 270.0
+    },
+    {
+      "image": "Baybayin Reference Images\\d0f6c526f4b1a02533d35f7e85212aab.jpg",
+      "tagalog_reference": "saan patungo ako saan saan doon dito d'yan puno subalit wala tignan muli ang tala",
+      "system_tagalog": "patungumulasanu o punsabatulawata",
+      "system_english": " | adj. or | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\dc5eacacc6252c0b80ed460c8ecd409b.jpg",
+      "tagalog_reference": "tinatangi",
+      "system_tagalog": "tenga",
+      "system_english": "n. ear",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\e3f0c8de6e8c1c92848f1ff703deb1e4.jpg",
+      "tagalog_reference": "sabihin mo na nilalaman ng puso mo at nararamdaman nito kung 'di pa aminin ang gusto baka kasi mawala na ako",
+      "system_tagalog": "",
+      "system_english": "",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\e4120a7074e14babef7f7b0ff114f9ac.jpg",
+      "tagalog_reference": "kumusta ang trabaho mo may tanong ako sa iyo alam mo ba ito maligayang araw ng kalayaan sino ang pinakamaganda saan ka nanggaling ano ba ang nangyari talaga bahala ka ano ang ginagawa mo totoo ba mahal kita huwag kang mag-abala",
+      "system_tagalog": "ngangnginginga nga ngihi ngaba mhi magi nanga gihi pabi naidaadi ngi na nihu gaka yata ngu dinga na ngupa gawa ga ma nga ma nga ng",
+      "system_english": " | really; indeed; please (see grammar) |  |  |  |  |  | night is celebrated |  | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that |  |  | perhaps; maybe; it seems |  |  | adv. 1. now; already; soon; 2. ever; 3. when; 4. who; whom; whose; which; that |  | work; deed; act; creation | It's not. | really; indeed; please (see grammar) | n., zoo. species of mollusc (mollusk) | really; indeed; please (see grammar) | prep. introducing direct object of a transitive verb",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\e638c9484c54182ca85c84d002972297.jpg",
+      "tagalog_reference": "mananatili",
+      "system_tagalog": "li mananatala",
+      "system_english": " | ",
+      "wer": 200.0
+    },
+    {
+      "image": "Baybayin Reference Images\\e9fe89b82ce5606e92611a4035bbca8f.jpg",
+      "tagalog_reference": "pangalan ano ang pangalan mo ang pangalan ko ay si dalisay alam mo ba ang pangalan niya kidlat ang pangalan niya alam niya ang pangalan niya",
+      "system_tagalog": "anaangapangala ka dalasaa baangapangalananaa kakalata pangalana angapangalananaa",
+      "system_english": " | You're coming to me. |  | cooking potatoes | ",
+      "wer": 100.0
+    },
+    {
+      "image": "Baybayin Reference Images\\fdeac2907427a8f3fe805f39514ec308.jpg",
+      "tagalog_reference": "talo mahirap kalabanin ang mundo pero mas mahirap ang piliing hindi lumaban kahit na gusto magsisisi ang taong panibugho at sa huli ay pipilitin na lang na maglaho",
+      "system_tagalog": "tala makapukalabunanungimunada pakangangamakapungupiluinguhinadu lumibana kahituna gusto magugusungtaunga panabgaha atusahuliayupimituna lango na maglaha dungibayu b b",
+      "system_english": "n., bot. species of herb |  |  | Go away even if you want to | a year's worth of work | we're going to have to go to the bathroom. | to flourish |  | b b",
+      "wer": 96.4
+    }
+  ]
+}

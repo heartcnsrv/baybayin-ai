@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="36"
+   height="32"
+   id="svg1339"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="Baybayin_Ba.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="C:\Users\Trenton Cronholm\Desktop">
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="575"
+     inkscape:window-width="765"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="11.78125"
+     inkscape:cx="18"
+     inkscape:cy="16"
+     inkscape:window-x="69"
+     inkscape:window-y="69"
+     inkscape:current-layer="svg1339" />
+  <defs
+     id="defs1342" />
+  <path
+     sodipodi:nodetypes="cccccccsccccccccccccc"
+     id="path2219"
+     style="fill:#000000"
+     d="M 14.442723,21.368237 C 11.980965,22.1646 11.202841,22.075315 9.5474502,21.708481 C 8.0215272,21.418529 6.8700012,20.852885 5.9767102,19.806763 C 4.8681052,18.125581 4.4599722,16.586601 4.5136672,15.398667 C 4.5018412,12.821841 6.6146362,10.372557 8.3165062,8.9728908 C 11.105777,6.9046668 13.871787,6.1073328 16.49814,6.2928468 C 19.524464,6.2562488 24.498091,7.6331008 26.865834,11.835498 C 29.026615,15.669645 29.171326,19.026319 27.245279,22.229027 C 25.755893,24.705637 21.956243,26.023046 19.121895,25.554714 C 17.681289,25.204548 13.822604,23.811336 14.442723,21.368237 z M 26.379871,16.812897 C 26.209199,15.099393 25.539774,13.197637 24.218056,11.922161 C 22.510854,10.129826 19.432698,9.1088188 17.026317,9.0360808 C 14.872335,8.9781098 12.900427,8.9788898 10.904505,9.9187568 C 9.3567582,10.66316 8.4027652,11.771802 7.8595142,13.33858 C 7.3569032,14.747455 7.0416712,16.422799 7.7029562,17.835598 C 8.9663872,20.010471 12.841934,19.892439 15.837275,19.261229 C 15.912781,20.354716 15.957556,20.550681 16.722933,21.581422 C 17.827373,22.540588 19.185095,23.34192 20.660256,23.504711 C 22.190171,23.447743 23.904397,22.89461 24.929869,21.84466 C 25.613348,20.97967 26.537997,18.22123 26.379871,16.812897 z " />
+</svg>

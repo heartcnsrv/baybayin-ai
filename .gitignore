@@ -5,3 +5,10 @@
 node_modules/
 .netlify/
 .DS_Store
+
+# Python caches and rebuildable files
+__pycache__/
+*.pyc
+model-training/models/lm.pkl
+# leftovers from an old merge conflict in the dataset
+*.jpg~*

@@ -1,0 +1,29 @@
+{
+  "preprocess": {
+    "mark_ratio": 0.4,
+    "word_gap_ratio": 1.0
+  },
+  "tuned_on": "development set",
+  "development_result": {
+    "images": 183,
+    "character_accuracy": 83.28,
+    "character_error_rate": 18.63,
+    "word_error_rate": 54.1,
+    "transliteration_exact_match": 53.01,
+    "tagalog_identification_accuracy": 49.73,
+    "transliteration_correct_but_word_wrong": 6,
+    "errors_by_earliest_stage": {
+      "correct": 91,
+      "kudlit / virama": 64,
+      "character recognition": 21,
+      "Tagalog word identification": 6,
+      "transliteration (word segmentation)": 1
+    }
+  },
+  "script_min_share": 0.1,
+  "script_tuning": {
+    "baybayin_kept": 0.9781420765027322,
+    "latin_rejected": 0.8761904761904762,
+    "data": "development word images + validation Latin pages"
+  }
+}

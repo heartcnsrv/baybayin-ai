@@ -1,0 +1,11 @@
+numpy>=2.0
+opencv-python>=4.10
+pandas>=2.2
+scikit-learn>=1.5
+torch>=2.2
+matplotlib>=3.8
+joblib>=1.4
+# Phrase/sentence translation (pretrained NMT, NLLB-200). Optional: without it
+# phrases fall back to dictionary glosses.
+# transformers>=4.40
+# sentencepiece>=0.2

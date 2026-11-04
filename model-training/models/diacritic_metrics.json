@@ -1,0 +1,47 @@
+{
+  "accuracy": 0.9505494505494505,
+  "macro_f1": 0.9472365135232231,
+  "per_class": {
+    "above": {
+      "precision": 1.0,
+      "recall": 0.9854014598540146,
+      "f1-score": 0.9926470588235294,
+      "support": 137.0
+    },
+    "below": {
+      "precision": 0.8872180451127819,
+      "recall": 0.9833333333333333,
+      "f1-score": 0.932806324110672,
+      "support": 120.0
+    },
+    "virama": {
+      "precision": 0.96875,
+      "recall": 0.8691588785046729,
+      "f1-score": 0.916256157635468,
+      "support": 107.0
+    },
+    "accuracy": 0.9505494505494505,
+    "macro avg": {
+      "precision": 0.9519893483709273,
+      "recall": 0.9459645572306735,
+      "f1-score": 0.9472365135232231,
+      "support": 364.0
+    },
+    "weighted avg": {
+      "precision": 0.9536330093778401,
+      "recall": 0.9505494505494505,
+      "f1-score": 0.9504637769755474,
+      "support": 364.0
+    }
+  },
+  "best_val_acc": 0.9751552795031055,
+  "epochs_run": 14,
+  "samples": {
+    "train": 4798,
+    "val": 483,
+    "test": 364
+  },
+  "skipped": {
+    "no separate mark found": 1563
+  }
+}

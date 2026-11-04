@@ -1,0 +1,37 @@
+36000 images, 17 classes; train/val/test = 23026/5798/7176
+  source-group-disjoint split
+SVM baseline
+  [svm] C=1   gamma=scale  val acc=0.8915
+  [svm] C=1   gamma=0.002  val acc=0.8875
+  [svm] C=10  gamma=scale  val acc=0.9010
+  [svm] C=10  gamma=0.002  val acc=0.8945
+  [svm] C=30  gamma=scale  val acc=0.9010
+  [svm] C=30  gamma=0.002  val acc=0.8945
+  [svm] best C=10 gamma=scale
+  [svm] final fit on 23026 training images ...
+  [svm] fit took 82s
+  [svm] TEST accuracy=0.9547  macro-F1=0.9526
+CNN
+  [cnn] device=cpu
+  [cnn] epoch  1  loss=0.9054  val acc=0.9462
+  [cnn] epoch  2  loss=0.4058  val acc=0.9679
+  [cnn] epoch  3  loss=0.3147  val acc=0.9759
+  [cnn] epoch  4  loss=0.2844  val acc=0.9819
+  [cnn] epoch  5  loss=0.2484  val acc=0.9836
+  [cnn] epoch  6  loss=0.2342  val acc=0.9848
+  [cnn] epoch  7  loss=0.2394  val acc=0.9848
+  [cnn] epoch  8  loss=0.2250  val acc=0.9871
+  [cnn] epoch  9  loss=0.2077  val acc=0.9874
+  [cnn] epoch 10  loss=0.2072  val acc=0.9878
+  [cnn] epoch 11  loss=0.1947  val acc=0.9905
+  [cnn] epoch 12  loss=0.1982  val acc=0.9888
+  [cnn] epoch 13  loss=0.1951  val acc=0.9926
+  [cnn] epoch 14  loss=0.1860  val acc=0.9917
+  [cnn] epoch 15  loss=0.1711  val acc=0.9884
+  [cnn] epoch 16  loss=0.1806  val acc=0.9895
+  [cnn] epoch 17  loss=0.1706  val acc=0.9888
+  [cnn] epoch 18  loss=0.1641  val acc=0.9888
+  [cnn] epoch 19  loss=0.1704  val acc=0.9881
+  [cnn] early stop (no val improvement for 6 epochs)
+  [cnn] TEST accuracy=0.9902  macro-F1=0.9896
+saved results to models/

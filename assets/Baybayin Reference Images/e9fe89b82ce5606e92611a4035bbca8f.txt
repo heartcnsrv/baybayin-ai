@@ -1,0 +1,6 @@
+Pangalan
+Ano ang pangalan mo?
+Ang pangalan ko ay si Dalisay.
+Alam mo ba ang pangalan niya?
+Kidlat ang pangalan niya.
+Alam niya ang pangalan niya

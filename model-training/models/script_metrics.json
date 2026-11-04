@@ -1,0 +1,22 @@
+{
+  "C": 3,
+  "test_accuracy": 0.9835,
+  "test_macro_f1": 0.9615,
+  "baybayin_kept (recall)": 0.9952,
+  "non_baybayin_rejected (recall)": 0.9023,
+  "confusion [[non->non, non->bay], [bay->non, bay->bay]]": [
+    [
+      1007,
+      109
+    ],
+    [
+      37,
+      7702
+    ]
+  ],
+  "samples": {
+    "train": 39495,
+    "val": 7217,
+    "test": 8855
+  }
+}

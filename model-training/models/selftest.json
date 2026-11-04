@@ -1,0 +1,70 @@
+{
+  "words_tested": 2000,
+  "candidate_recall": 1.0,
+  "top1": 0.969,
+  "top5": 1.0,
+  "mean_candidates": 1.055,
+  "median_candidates": 1.0,
+  "seconds": 0.0,
+  "word_list_words": 39419,
+  "corpus_tokens": 5965543,
+  "bigrams": 164844,
+  "sample_misses": [
+    {
+      "reference": "bale",
+      "predicted": [
+        "bali",
+        "bale"
+      ]
+    },
+    {
+      "reference": "makaraig",
+      "predicted": [
+        "makadaig",
+        "makaraig"
+      ]
+    },
+    {
+      "reference": "iksaminado",
+      "predicted": [
+        "eksaminado",
+        "iksaminado"
+      ]
+    },
+    {
+      "reference": "impresaryo",
+      "predicted": [
+        "empresaryo",
+        "impresaryo"
+      ]
+    },
+    {
+      "reference": "riseta",
+      "predicted": [
+        "reseta",
+        "riseta"
+      ]
+    },
+    {
+      "reference": "kunsumido",
+      "predicted": [
+        "konsumido",
+        "kunsumido"
+      ]
+    },
+    {
+      "reference": "antimano",
+      "predicted": [
+        "antemano",
+        "antimano"
+      ]
+    },
+    {
+      "reference": "ratiles",
+      "predicted": [
+        "datiles",
+        "ratiles"
+      ]
+    }
+  ]
+}

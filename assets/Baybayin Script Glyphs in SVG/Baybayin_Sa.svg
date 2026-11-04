@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="35"
+   height="32"
+   version="1.0"
+   sodipodi:docbase="C:\Users\Trenton Cronholm\Desktop"
+   sodipodi:docname="Baybayin_Sa.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     inkscape:window-height="718"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="16.25"
+     inkscape:cx="17.5"
+     inkscape:cy="16"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 8.9846154,4.923077 L 10.769231,23.938462 L 22.461538,7.2615385"
+     id="path2161"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 19.261538,12.984615 C 21.098792,13.027957 23.438409,15.022447 23.464852,15.755267 C 23.49016,16.456647 22.088153,17.672444 20.923077,18.523077 C 20.923077,18.523077 24.425573,22.346312 24.579645,24.247574 C 24.736252,26.180107 20.996794,24.856938 19.076923,24.184615 C 19.852188,25.438811 20.927057,26.992876 23.323077,27.076923 C 25.657559,27.16097 27.718245,25.869131 27.753846,24.430769 C 27.789474,22.991285 25.081056,20.240541 23.420355,18.740592 C 23.420355,18.740592 26.923266,17.300554 26.922367,16.060118 C 26.921468,14.851161 23.125785,12.043555 20.738462,10.707692 L 19.261538,12.984615 z "
+     id="path3134"
+     sodipodi:nodetypes="czczczzczcc" />
+</svg>
