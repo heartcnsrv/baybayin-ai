@@ -1,0 +1,16 @@
+{
+  "preprocess": {
+    "median_ksize": 3,
+    "deskew_max_angle": 10.0,
+    "crop_pad": 6,
+    "min_abs_area": 6,
+    "noise_ratio": 0.01,
+    "mark_ratio": 0.4,
+    "line_split_ratio": 0.6,
+    "word_gap_ratio": 1.0,
+    "glyph_margin": 0.12
+  },
+  "script_min_share": 0.1,
+  "max_candidates": 5000,
+  "sentence_beam": 8
+}

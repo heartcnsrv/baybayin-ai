@@ -4,9 +4,14 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "netlify dev --config netlify/netlify.toml"
+    "build": "node netlify/build.mjs",
+    "dev": "netlify dev",
+    "test:parity": "node netlify/tests/parity.mjs"
   },
-  "devDependencies": {
-    "netlify-cli": "^17.38.1"
+  "dependencies": {
+    "sharp": "^0.35.5"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }

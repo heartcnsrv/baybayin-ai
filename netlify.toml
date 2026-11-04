@@ -1,0 +1,22 @@
+# Netlify: the website (dist/, built by netlify/build.mjs) and two functions:
+#   /api/ocr                        netlify/functions/ocr.mjs  - Baybayin OCR (paper model) + Luna review
+#   /.netlify/functions/translate   netlify/functions/translate.mjs - text translation (Translate button)
+# Environment variables (Site configuration > Environment variables):
+#   OPENAI_API_KEY, OPENAI_MODEL (e.g. gpt-6-luna)
+[build]
+  command = "node netlify/build.mjs"
+  publish = "dist"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+  # sharp ships native code: install it as a normal dependency instead of bundling.
+  external_node_modules = ["sharp"]
+  # The exported trained models and language data used by ocr.mjs.
+  included_files = ["netlify/ocr-data/**"]
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

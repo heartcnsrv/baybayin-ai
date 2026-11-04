@@ -14,8 +14,8 @@ image ─► grayscale ─► median filter ─► Otsu ─► minor deskew ─�
       ─► all Latin readings (e/i, o/u, da/ra) ─► keep those in the Tagalog word list
       ─► rank by corpus frequency (+ neighbouring word for phrases)
          none left ─► most probable reading, marked unverified
-      ─► English: dictionary (single word) / pretrained NMT, NLLB-200 (phrases)
-      ─► secondary check: OpenAI vision model ("Luna AI", baybayin/verify.py)
+      ─► English: dictionary (single word); on the website, phrases are translated
+         by the OpenAI Luna review (netlify/lib/luna.mjs), which also checks the reading
 ```
 
 ## Files
@@ -25,10 +25,10 @@ image ─► grayscale ─► median filter ─► Otsu ─► minor deskew ─�
 | `baybayin_preprocess.py` | 3.5 | preprocessing, segmentation, 28×28 normalisation, character dataset |
 | `train_models.py` | 3.5 | base-character CNN (17 classes) and SVM baseline on the same data |
 | `train_diacritics.py` | 3.5 | diacritic classifier (above / below / virama) |
+| `train_script_classifier.py` | 3.5 | Baybayin-vs-non-Baybayin SVM (script separation, following [1, 3]) |
 | `translate_pipeline.py` | 3.5 | readings, word-list matching, ranking, English, oracle self-test |
 | `evaluate.py` | 3.2, 3.4, 3.6 | inclusion criteria, 20/80 dev/test split, tuning, metrics |
-| `serve.py` | — | website (`http://localhost:8000`) |
-| `baybayin/verify.py` | 5 | secondary AI check (needs `OPENAI_API_KEY` in the project `.env`) |
+| `export_web_models.py` | — | exports the trained models and language data for the website's JavaScript OCR function (`../netlify/ocr-data/`) |
 | `data/sentence_transcriptions.csv` | 3.2 | supplementary phrase set ground truth |
 | `data/word_image_exclusions.csv` | 3.2 | images researchers exclude (criteria 1–3), with reason |
 | `data/word_image_confirmed_words.csv` | 3.2 | words researchers confirm as Tagalog (criterion 4) |
@@ -59,11 +59,13 @@ python evaluate.py test                # final word-image evaluation
 python evaluate.py phrases             # supplementary phrase set
 python translate_pipeline.py selftest  # oracle candidate test (Table 4)
 python translate_pipeline.py image path\to\image.jpg
-python serve.py                        # website
+python export_web_models.py            # after retraining: update the website's model files
 python -m unittest discover -s tests -t .
 ```
 
-Phrase translation uses NLLB-200 through `transformers`
-(`pip install transformers sentencepiece`, ~2.4 GB model download on first
-use). Without it, phrases fall back to dictionary glosses and the output says so.
-English results are graded by researchers in `runs/english_grading_*.csv`.
+On the website, phrase and sentence English comes from the OpenAI Luna review
+(the 2.4 GB NLLB model cannot run in a Netlify function). `evaluate.py phrases`
+can still use NLLB-200 locally if `transformers` is installed
+(see `translate_pipeline.py`, `NMT_DIR`); otherwise phrases fall back to
+dictionary glosses. English results are graded by researchers in
+`runs/english_grading_*.csv`.
