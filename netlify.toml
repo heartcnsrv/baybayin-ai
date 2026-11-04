@@ -8,6 +8,12 @@
   publish = "dist"
   functions = "netlify/functions"
 
+[build.environment]
+  # OPENAI_MODEL holds a public model name (e.g. gpt-6-luna) that appears in the
+  # code as the default, not a secret. Skip it in Netlify's secrets scan; the
+  # scan still checks for OPENAI_API_KEY.
+  SECRETS_SCAN_OMIT_KEYS = "OPENAI_MODEL"
+
 [functions]
   node_bundler = "esbuild"
   # sharp ships native code: install it as a normal dependency instead of bundling.
